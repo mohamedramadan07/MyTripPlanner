@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TripNotesActivity">
+
+    <LinearLayout
+        android:id="@+id/addNotesLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        >
+
+        <EditText
+            android:id="@+id/edit_notes_activity"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/hint_add_notes"
+            android:inputType="text" />
+
+        <Button
+            android:id="@+id/addNoteBtnActivity"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/addNote"
+            android:textColor="@color/editorColorPrimary"
+            tools:background="@android:color/holo_orange_light" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listNotesActivity"
+        android:layout_marginTop="52dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Trip Planner</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_Trip_sPoint">Start point</string>
+    <string name="hint_trip_sPoint">Start Point</string>
+    <string name="hint_trip_ePoint">End point</string>
+    <string name="hint_trip_time">Time</string>
+    <string name="trip_type">Trip type</string>
+    <string name="trip_name">Name</string>
+    <string name="action_delete_all_entries">Delete All Trips</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_activity_title_new_trip"> New Trip</string>
+    <string name="editor_activity_title_edit_trip"> Edit Trip</string>
+    <string name="hint_add_notes">Add notes</string>
+    <string name="type_one_direction">One direction</string>
+    <string name="type_round_trip">Round trip</string>
+    <string name="type_unknown_trip">Unknown trip</string>
+    <string name="insert_trip_success">Inserting trip was successful</string>
+    <string name="insert_trip_fail">Inserting trip failed</string>
+    <string name="update_trip_fail">Updating trip failed</string>
+    <string name="update_trip_success">Updating trip was successful</string>
+    <string name="delete_trip_fail">Deleting trip failed</string>
+    <string name="delete_trip_success">Deleting trip was successful</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this trip?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint_trip_name">Name</string>
+    <string name="imgButton">todo</string>
+    <string name="title_activity_trip_details">Trip Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="viewName">Trip Name:</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="addNote">Add</string>
+    <string name="TripNotes">Trip Notes</string>
+    <string name="startTrip">Start Trip</string>
+
+</resources>

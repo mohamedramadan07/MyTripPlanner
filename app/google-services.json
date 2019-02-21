@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884658304462",
+    "firebase_url": "https://firstandroidproject-67399.firebaseio.com",
+    "project_id": "firstandroidproject-67399",
+    "storage_bucket": "firstandroidproject-67399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884658304462:android:1c6b7f7ce0f24bbc",
+        "android_client_info": {
+          "package_name": "com.example.doaaa.tripplannerv000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884658304462-nblpaptjf0e6r6m13ur7p8nnn2v5a5cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doaaa.tripplannerv000",
+            "certificate_hash": "f69a38f93e3c61d9f25deff7a7acad27a235dd53"
+          }
+        },
+        {
+          "client_id": "884658304462-1jcig6ui7b1mn2sdr3hkoputntorgi8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEchXsZ0YwIzeCylGgGNd2mRA2MMRelk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884658304462-1jcig6ui7b1mn2sdr3hkoputntorgi8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
